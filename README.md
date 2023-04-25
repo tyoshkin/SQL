@@ -26,7 +26,7 @@
 - user_id  - 	id пользователя
 - birth_date -	дата рождения
 - sex -	пол
-- 
+
 **couriers** — информация о курьерах:
 - courier_id 	- 	id курьера
 - birth_date 	-	дата рождения
