@@ -1,4 +1,5 @@
 # SQL
+## Наиболее интересные для меня задачи с курса 
 ## Схема базы данных
 ![Схема базы данных](https://github.com/tyoshkin/SQL/blob/main/db.jpg)
 
@@ -27,9 +28,9 @@
 - sex -	пол
 - 
 **couriers** — информация о курьерах:
-courier_id 	- 	id курьера
-birth_date 	-	дата рождения
-sex -	пол
+- courier_id 	- 	id курьера
+- birth_date 	-	дата рождения
+- sex -	пол
 
 **products** — информация о товарах, которые доставляет сервис:
 - product_id -	id продукта
